@@ -1,0 +1,24 @@
+#See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+COPY ["TemplateNet6.WebApi/TemplateNet6.WebApi.csproj", "TemplateNet6.WebApi/"]
+RUN dotnet restore "./TemplateNet6.WebApi/TemplateNet6.WebApi.csproj"
+COPY . .
+WORKDIR "/src/TemplateNet6.WebApi"
+RUN dotnet build "./TemplateNet6.WebApi.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "./TemplateNet6.WebApi.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "TemplateNet6.WebApi.dll"]

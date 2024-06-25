@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TemplateNet6.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TemplateNet6.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.ttf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.woff",
+      "PackagePath": "staticwebassets\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.woff"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.woff2",
+      "PackagePath": "staticwebassets\\css\\font-icons\\Sitio\\Inter-VariableFont_slnt,wght.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\entypo\\css\\entypo.css",
+      "PackagePath": "staticwebassets\\css\\font-icons\\entypo\\css\\entypo.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\entypo\\font\\entypo.eot",
+      "PackagePath": "staticwebassets\\css\\font-icons\\entypo\\font\\entypo.eot"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\entypo\\font\\entypo.svg",
+      "PackagePath": "staticwebassets\\css\\font-icons\\entypo\\font\\entypo.svg"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\entypo\\font\\entypo.ttf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\entypo\\font\\entypo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\entypo\\font\\entypo.woff",
+      "PackagePath": "staticwebassets\\css\\font-icons\\entypo\\font\\entypo.woff"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font-icons\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\neon-core.css",
+      "PackagePath": "staticwebassets\\css\\neon-core.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\neon-forms.css",
+      "PackagePath": "staticwebassets\\css\\neon-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\neon-theme.css",
+      "PackagePath": "staticwebassets\\css\\neon-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\skins\\black.css",
+      "PackagePath": "staticwebassets\\css\\skins\\black.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\skins\\blue.css",
+      "PackagePath": "staticwebassets\\css\\skins\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\css\\skins\\white.css",
+      "PackagePath": "staticwebassets\\css\\skins\\white.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\images\\yo-modified.png",
+      "PackagePath": "staticwebassets\\images\\yo-modified.png"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\PDFObject-master\\pdfobject.js",
+      "PackagePath": "staticwebassets\\js\\PDFObject-master\\pdfobject.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\PDFObject-master\\pdfobject.min.js",
+      "PackagePath": "staticwebassets\\js\\PDFObject-master\\pdfobject.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\Viewer\\viewer.min.css",
+      "PackagePath": "staticwebassets\\js\\Viewer\\viewer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\Viewer\\viewer.min.js",
+      "PackagePath": "staticwebassets\\js\\Viewer\\viewer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\js\\bootbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap-filestyle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-filestyle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap-modal-mult.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-modal-mult.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap-select\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap-select\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\bg-progress-bar.png",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\bg-progress-bar.png"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\cif-icons-20xy.png",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\cif-icons-20xy.png"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\custominputfile.css",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\custominputfile.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\custominputfile.js",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\custominputfile.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\custominputfile.min-es.js",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\custominputfile.min-es.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\custominputfile\\custominputfile.min.css",
+      "PackagePath": "staticwebassets\\js\\custominputfile\\custominputfile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\datatables\\datatables.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\datatables\\datatables.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\datepicker\\jquery.datetimepicker.full.min.js",
+      "PackagePath": "staticwebassets\\js\\datepicker\\jquery.datetimepicker.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\datepicker\\jquery.datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\js\\datepicker\\jquery.datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\js\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\fullcalendar\\locale-all.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar\\locale-all.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\fullcalendar\\locale\\es.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\gsap\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jQuery\\jQuery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jQuery\\jQuery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jfunciones.js",
+      "PackagePath": "staticwebassets\\js\\jfunciones.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\joinable.js",
+      "PackagePath": "staticwebassets\\js\\joinable.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jquery-ui\\css\\no-theme\\jquery-ui-1.10.3.custom.min.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui\\css\\no-theme\\jquery-ui-1.10.3.custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jquery-ui\\js\\jquery-ui-1.10.3.minimal.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui\\js\\jquery-ui-1.10.3.minimal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jquery.inputmask.bundle.js",
+      "PackagePath": "staticwebassets\\js\\jquery.inputmask.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\js\\jquery.multi-select.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\jspdf.min.js",
+      "PackagePath": "staticwebassets\\js\\jspdf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\load-image.all.min.js",
+      "PackagePath": "staticwebassets\\js\\load-image.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\neon-api.js",
+      "PackagePath": "staticwebassets\\js\\neon-api.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\neon-custom.js",
+      "PackagePath": "staticwebassets\\js\\neon-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\js\\pace\\pace.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\js\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\resizeable.js",
+      "PackagePath": "staticwebassets\\js\\resizeable.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\js\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\select2\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\js\\select2\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\select2\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\select2\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\toastr.js",
+      "PackagePath": "staticwebassets\\js\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\validation\\css\\formValidation.css",
+      "PackagePath": "staticwebassets\\js\\validation\\css\\formValidation.css"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\validation\\js\\formValidation.js",
+      "PackagePath": "staticwebassets\\js\\validation\\js\\formValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\validation\\js\\framework\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\validation\\js\\framework\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\validation\\js\\language\\en_US.js",
+      "PackagePath": "staticwebassets\\js\\validation\\js\\language\\en_US.js"
+    },
+    {
+      "Id": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\wwwroot\\js\\validation\\js\\language\\es_ES.js",
+      "PackagePath": "staticwebassets\\js\\validation\\js\\language\\es_ES.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TemplateNet6.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TemplateNet6.WebApp.props",
+      "PackagePath": "build\\TemplateNet6.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TemplateNet6.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\TemplateNet6.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TemplateNet6.WebApp.props",
+      "PackagePath": "buildTransitive\\TemplateNet6.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

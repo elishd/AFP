@@ -1,0 +1,12 @@
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\bin\Debug\net6.0\TemplateNet6.Domain.deps.json
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\bin\Debug\net6.0\TemplateNet6.Domain.dll
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\bin\Debug\net6.0\TemplateNet6.Domain.pdb
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.AssemblyInfoInputs.cache
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.AssemblyInfo.cs
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.sourcelink.json
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.dll
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\refint\TemplateNet6.Domain.dll
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\TemplateNet6.Domain.pdb
+C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Domain\obj\Debug\net6.0\ref\TemplateNet6.Domain.dll

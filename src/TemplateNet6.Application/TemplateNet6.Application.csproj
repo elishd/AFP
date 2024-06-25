@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Builders\**" />
+    <Compile Remove="InterfacesServices\Api\**" />
+    <Compile Remove="Mapping\**" />
+    <EmbeddedResource Remove="Builders\**" />
+    <EmbeddedResource Remove="InterfacesServices\Api\**" />
+    <EmbeddedResource Remove="Mapping\**" />
+    <None Remove="Builders\**" />
+    <None Remove="InterfacesServices\Api\**" />
+    <None Remove="Mapping\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TemplateNet6.Domain\TemplateNet6.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

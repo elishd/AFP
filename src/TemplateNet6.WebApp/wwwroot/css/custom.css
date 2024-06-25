@@ -1,0 +1,42 @@
+textarea {
+	resize: none;
+}
+
+/* CSS Div Locked*/
+div.locked {
+    z-index: 10300;
+    background: #fff;
+    opacity: 0.2;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.contentGrid {
+    position: relative;
+    padding: 15px;
+    background-color:#ffffff;
+    border-radius:20px;
+}
+
+.contentGrid .title {
+    border-left: 10px solid #FF9D32;
+    left: -17px;
+    position: relative;
+}
+
+.contentGrid .title .element {
+    margin-left:20px;
+}
+
+.contentGrid .title .element h3{
+    color: #373A96;
+    font-weight:bold !important;
+}
+
+.panel-title {
+    color: #373A96 !important;
+    font-weight: bold !important;
+}

@@ -1,0 +1,27 @@
+﻿@using TemplateNet6.WebApp.Models.Empresa
+@model IEnumerable<SelectEmpresas>
+
+<table id="Table" class="table table-bordered table-hover table-condensed" data-page-length="10">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Razon Social</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RazonSocial)
+                </td>
+            
+            </tr>
+        }
+    </tbody>
+</table>
+

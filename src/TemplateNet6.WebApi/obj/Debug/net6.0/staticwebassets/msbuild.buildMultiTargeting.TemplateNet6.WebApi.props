@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TemplateNet6.WebApi.props" />
+</Project>

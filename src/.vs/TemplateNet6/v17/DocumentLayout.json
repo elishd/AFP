@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\views\\empresa\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\views\\empresa\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\models\\empresa\\selectempresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\models\\empresa\\selectempresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\models\\empresa\\getempresarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\models\\empresa\\getempresarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.infrastructure\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|solutionrelative:templatenet6.infrastructure\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\usecase\\empresa\\empresausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\usecase\\empresa\\empresausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapp\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7C7E4-B169-4D13-8908-61AA4EF8FC7D}|TemplateNet6.WebApp\\TemplateNet6.WebApp.csproj|solutionrelative:templatenet6.webapp\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\models\\response\\empresa\\empresaselectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\models\\response\\empresa\\empresaselectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06941751-6318-49B3-96DE-5F09FCFA8F66}|TemplateNet6.UnitTets\\TemplateNet6.UnitTets.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.unittets\\application\\usecase\\empresausecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06941751-6318-49B3-96DE-5F09FCFA8F66}|TemplateNet6.UnitTets\\TemplateNet6.UnitTets.csproj|solutionrelative:templatenet6.unittets\\application\\usecase\\empresausecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06941751-6318-49B3-96DE-5F09FCFA8F66}|TemplateNet6.UnitTets\\TemplateNet6.UnitTets.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.unittets\\application\\usecase\\departamentousecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06941751-6318-49B3-96DE-5F09FCFA8F66}|TemplateNet6.UnitTets\\TemplateNet6.UnitTets.csproj|solutionrelative:templatenet6.unittets\\application\\usecase\\departamentousecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.infrastructure\\repositories\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|solutionrelative:templatenet6.infrastructure\\repositories\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\usecase\\tipotransaccion\\idepartamentousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\usecase\\tipotransaccion\\idepartamentousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\usecase\\tipotransaccion\\departamentousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\usecase\\tipotransaccion\\departamentousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\usecase\\empresa\\iempresausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\usecase\\empresa\\iempresausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\interfacesrepositories\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\interfacesrepositories\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.application\\interfacesrepositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C537FB-2483-488C-B1F6-6E3FC2FD981B}|TemplateNet6.Application\\TemplateNet6.Application.csproj|solutionrelative:templatenet6.application\\interfacesrepositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBCD84B-E259-4BD6-8751-626C6FE37403}|TemplateNet6.Domain\\TemplateNet6.Domain.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.domain\\entities\\empresa\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBCD84B-E259-4BD6-8751-626C6FE37403}|TemplateNet6.Domain\\TemplateNet6.Domain.csproj|solutionrelative:templatenet6.domain\\entities\\empresa\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBCD84B-E259-4BD6-8751-626C6FE37403}|TemplateNet6.Domain\\TemplateNet6.Domain.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.domain\\entities\\departamento\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBCD84B-E259-4BD6-8751-626C6FE37403}|TemplateNet6.Domain\\TemplateNet6.Domain.csproj|solutionrelative:templatenet6.domain\\entities\\departamento\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\mapping\\webapimapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\mapping\\webapimapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\models\\response\\departamento\\departamentoselectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\models\\response\\departamento\\departamentoselectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\models\\request\\departamento\\getdepartamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\models\\request\\departamento\\getdepartamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.infrastructure\\services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FF131B-2FAA-4399-83A9-ECF4DDAB229B}|TemplateNet6.Infrastructure\\TemplateNet6.Infrastructure.csproj|solutionrelative:templatenet6.infrastructure\\services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|c:\\users\\jcjos\\onedrive\\escritorio\\20240625ronaldduran\\src\\templatenet6.webapi\\models\\request\\empresa\\getempresarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D28A8F8-71E7-41DD-9257-A9D929CE7040}|TemplateNet6.WebApi\\TemplateNet6.WebApi.csproj|solutionrelative:templatenet6.webapi\\models\\request\\empresa\\getempresarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:36:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:43:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Empresa\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Views\\Empresa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Empresa\\Index.cshtml",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Views\\Empresa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:38:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Repositories\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Infrastructure\\Repositories\\EmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Repositories\\EmpresaRepository.cs",
+              "RelativeToolTip": "TemplateNet6.Infrastructure\\Repositories\\EmpresaRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:34:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Empresa\\Table.cshtml",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Views\\Empresa\\Table.cshtml",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Empresa\\Table.cshtml",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Views\\Empresa\\Table.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:46:17.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectEmpresas.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Models\\Empresa\\SelectEmpresas.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Models\\Empresa\\SelectEmpresas.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Models\\Empresa\\SelectEmpresas.cs",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Models\\Empresa\\SelectEmpresas.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:35:06.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmpresaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Models\\Empresa\\GetEmpresaRequest.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Models\\Empresa\\GetEmpresaRequest.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Models\\Empresa\\GetEmpresaRequest.cs",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Models\\Empresa\\GetEmpresaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:43:02.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpresaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\Empresa\\EmpresaUseCase.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\UseCase\\Empresa\\EmpresaUseCase.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\Empresa\\EmpresaUseCase.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\UseCase\\Empresa\\EmpresaUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:24:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:36:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TemplateNet6.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:48:43.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartamentoUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.UnitTets\\Application\\UseCase\\DepartamentoUseCaseTest.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.UnitTets\\Application\\UseCase\\DepartamentoUseCaseTest.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.UnitTets\\Application\\UseCase\\DepartamentoUseCaseTest.cs",
+              "RelativeToolTip": "TemplateNet6.UnitTets\\Application\\UseCase\\DepartamentoUseCaseTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:18:30.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpresaUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.UnitTets\\Application\\UseCase\\EmpresaUseCaseTest.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.UnitTets\\Application\\UseCase\\EmpresaUseCaseTest.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.UnitTets\\Application\\UseCase\\EmpresaUseCaseTest.cs",
+              "RelativeToolTip": "TemplateNet6.UnitTets\\Application\\UseCase\\EmpresaUseCaseTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:18:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpresaSelectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Response\\Empresa\\EmpresaSelectResponse.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Models\\Response\\Empresa\\EmpresaSelectResponse.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Response\\Empresa\\EmpresaSelectResponse.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Models\\Response\\Empresa\\EmpresaSelectResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:55:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartamentoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\TipoTransaccion\\DepartamentoUseCase.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\UseCase\\TipoTransaccion\\DepartamentoUseCase.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\TipoTransaccion\\DepartamentoUseCase.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\UseCase\\TipoTransaccion\\DepartamentoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:22:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmpresaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\Empresa\\IEmpresaUseCase.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\UseCase\\Empresa\\IEmpresaUseCase.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\Empresa\\IEmpresaUseCase.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\UseCase\\Empresa\\IEmpresaUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:39:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDepartamentoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\TipoTransaccion\\IDepartamentoUseCase.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\UseCase\\TipoTransaccion\\IDepartamentoUseCase.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\UseCase\\TipoTransaccion\\IDepartamentoUseCase.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\UseCase\\TipoTransaccion\\IDepartamentoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:42:27.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Repositories\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Infrastructure\\Repositories\\DepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Repositories\\DepartamentoRepository.cs",
+              "RelativeToolTip": "TemplateNet6.Infrastructure\\Repositories\\DepartamentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:25:41.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:51:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\InterfacesRepositories\\IEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\InterfacesRepositories\\IEmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\InterfacesRepositories\\IEmpresaRepository.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\InterfacesRepositories\\IEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:37:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\InterfacesRepositories\\IDepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Application\\InterfacesRepositories\\IDepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Application\\InterfacesRepositories\\IDepartamentoRepository.cs",
+              "RelativeToolTip": "TemplateNet6.Application\\InterfacesRepositories\\IDepartamentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:33:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Domain\\Entities\\Empresa\\Empresa.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Domain\\Entities\\Empresa\\Empresa.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Domain\\Entities\\Empresa\\Empresa.cs",
+              "RelativeToolTip": "TemplateNet6.Domain\\Entities\\Empresa\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:14:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Domain\\Entities\\Departamento\\Departamento.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Domain\\Entities\\Departamento\\Departamento.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Domain\\Entities\\Departamento\\Departamento.cs",
+              "RelativeToolTip": "TemplateNet6.Domain\\Entities\\Departamento\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:20:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetDepartamentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Request\\Departamento\\GetDepartamentoRequest.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Models\\Request\\Departamento\\GetDepartamentoRequest.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Request\\Departamento\\GetDepartamentoRequest.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Models\\Request\\Departamento\\GetDepartamentoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:54:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartamentoSelectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Response\\Departamento\\DepartamentoSelectResponse.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Models\\Response\\Departamento\\DepartamentoSelectResponse.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Response\\Departamento\\DepartamentoSelectResponse.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Models\\Response\\Departamento\\DepartamentoSelectResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:56:19.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebApiMapping.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Mapping\\WebApiMapping.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Mapping\\WebApiMapping.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Mapping\\WebApiMapping.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Mapping\\WebApiMapping.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:59:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\appsettings.json",
+              "RelativeToolTip": "TemplateNet6.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T17:08:24.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Services\\DbConnectionService.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.Infrastructure\\Services\\DbConnectionService.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.Infrastructure\\Services\\DbConnectionService.cs",
+              "RelativeToolTip": "TemplateNet6.Infrastructure\\Services\\DbConnectionService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:08:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:59:02.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetEmpresaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Request\\Empresa\\GetEmpresaRequest.cs",
+              "RelativeDocumentMoniker": "TemplateNet6.WebApi\\Models\\Request\\Empresa\\GetEmpresaRequest.cs",
+              "ToolTip": "C:\\Users\\jcjos\\OneDrive\\Escritorio\\20240625RonaldDuran\\src\\TemplateNet6.WebApi\\Models\\Request\\Empresa\\GetEmpresaRequest.cs",
+              "RelativeToolTip": "TemplateNet6.WebApi\\Models\\Request\\Empresa\\GetEmpresaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:48:10.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

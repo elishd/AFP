@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "_Layout";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <div class="panel-title"><b>Mi Empresa</b></div>
+    </div>
+
+    <div class="panel-body">
+ 
+        <div id="divTable">
+        </div>
+
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        GlobalLoadTabla('@Url.Action("Table")', '#divTable', '#Table');
+    });
+</script>

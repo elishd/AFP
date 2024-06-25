@@ -1,0 +1,50 @@
+2024-06-25 11:07:20,471 [16][ERROR][Logs][ERROR_DESCONOCIDO] - Ha ocurrido un error desconocido en el sistema.:
+ {"Codigo":{"IdEmpresa":1}}System.Data.SqlClient.SqlException (0x80131904): No se encontró el procedimiento almacenado 'sp_AddDepartment'.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__126_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at TemplateNet6.Infrastructure.Repositories.DepartamentoRepository.GetAllDepartmentAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive
+2024-06-25 11:11:42,078 [14][ERROR][Logs][ERROR_DESCONOCIDO] - Ha ocurrido un error desconocido en el sistema.:
+ {"Codigo":{"IdEmpresa":1}}System.Data.SqlClient.SqlException (0x80131904): No se encontró el procedimiento almacenado 'sp_AddDepartment'.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__126_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at TemplateNet6.Infrastructure.Repositories.DepartamentoRepository.GetAllDepartmentAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive
+2024-06-25 11:13:09,326 [16][ERROR][Logs][ERROR_DESCONOCIDO] - Ha ocurrido un error desconocido en el sistema.:
+ {"Codigo":{"IdEmpresa":1}}AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> DepartamentoSelectResponse
+System.Collections.Generic.List`1[[TemplateNet6.Domain.Entities.Departamento, TemplateNet6.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> TemplateNet6.WebApi.Models.Response.Departamento.DepartamentoSelectResponse
+   at lambda_method10(Closure , Object , DepartamentoSelectResponse , ResolutionContext )
+   at TemplateNet6.WebApi.Controllers.DepartamentosController.GetAllDepartmentAsync(GetDepartamentoRequest codigo) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.WebApi\Controllers\DepartamentosController.cs:line 37
+2024-06-25 11:49:27,331 [4][ERROR][Logs][ERROR_DESCONOCIDO] - Ha ocurrido un error desconocido en el sistema.:
+ {"IdEmpresa":0}System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1246
+   at Dapper.SqlMapper.QueryRowAsync[T](IDbConnection cnn, Row row, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 498
+   at TemplateNet6.Infrastructure.Repositories.EmpresaRepository.GetEmpresaAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Infrastructure\Repositories\EmpresaRepository.cs:line 31
+   at TemplateNet6.Application.UseCase.EmpresaUseCase.GetEmpresaAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Application\UseCase\Empresa\EmpresaUseCase.cs:line 25
+   at TemplateNet6.WebApi.Controllers.EmpresaController.GetEmpresaAsync(GetEmpresaRequest empresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.WebApi\Controlle
+2024-06-25 11:52:40,621 [23][ERROR][Logs][ERROR_DESCONOCIDO] - Ha ocurrido un error desconocido en el sistema.:
+ {"IdEmpresa":0}System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1246
+   at Dapper.SqlMapper.QueryRowAsync[T](IDbConnection cnn, Row row, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 498
+   at TemplateNet6.Infrastructure.Repositories.EmpresaRepository.GetEmpresaAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Infrastructure\Repositories\EmpresaRepository.cs:line 31
+   at TemplateNet6.Application.UseCase.EmpresaUseCase.GetEmpresaAsync(Int32 idEmpresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.Application\UseCase\Empresa\EmpresaUseCase.cs:line 25
+   at TemplateNet6.WebApi.Controllers.EmpresaController.GetEmpresaAsync(GetEmpresaRequest empresa) in C:\Users\jcjos\OneDrive\Escritorio\20240625RonaldDuran\src\TemplateNet6.WebApi\Controlle
